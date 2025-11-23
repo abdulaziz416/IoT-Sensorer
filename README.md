@@ -1,2 +1,3 @@
 # IoT-Sensorer
-hej
+Vi har arbetat med att configurera en Raspberry Pi Pico W till en DHT11-sensor som läser in temperatur- och luftfuktighetsdata, vilket skickas vidare till ThingSpeak med hjälp av MicroPython. För att visualisera datan i ett graf har ThinkSpeak använts 
+
