@@ -56,4 +56,4 @@ while True:
 
     except OSError as e:
         print("Kunde inte läsa sensorn eller nätverksfel:", e)
-    time.sleep(20)
+    time.sleep(30)
